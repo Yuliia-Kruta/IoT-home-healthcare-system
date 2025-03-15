@@ -52,7 +52,6 @@ RPi.GPIO module
 This project utilises a <b>Raspberry Pi 3B</b>, a compact single-board computer, along with various electronic components to create a functional heart rate and blood oxygen monitoring system.
 <br/><br/>
 <img align="left" src="./images/image3.png" width="30%" height="auto"/>
-<br/>
 
 <h3>Sensors, Actuators, and Additional Features</h3>
 The system integrates the following key components:<br/>
@@ -61,7 +60,7 @@ The system integrates the following key components:<br/>
 - <b>Buzzer Alarm:</b> Activates when measurements exceed safe thresholds, assisting hearing-impaired users.  <br/>
 - <b>Graphical Display:</b> Real-time visualization of heart rate and SpO₂ levels.  <br/>
 - <b>SMS Alert System:</b> Sends a notification via Twilio when abnormal readings are detected.  
-<br/><br/><br/><br/>
+<br/><br/><br/>
 <h3>Electrical Schematic Overview </h3> 
 The system is designed with careful integration of components:  <br/>
 - The <b>XC3740 heartbeat sensor</b> connects to the Raspberry Pi for real-time monitoring.    <br/>
