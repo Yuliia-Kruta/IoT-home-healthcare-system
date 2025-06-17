@@ -96,7 +96,7 @@ The system is designed with careful integration of components:  <br/>
      - Stops the heart rate sensor.  
 
 <h2>Contributors</h2> 
-This project was created together with Lucy Kendrick, Patrick Williams and Max Bailey for Internet of Things class at UniSC.
+This project was created by Yuliia Kruta in collaboration with Lucy Kendrick, Patrick Williams, and Max Bailey for the Internet of Things class at UniSC.
 
 <h2>Copyright Notice</h2>
 
